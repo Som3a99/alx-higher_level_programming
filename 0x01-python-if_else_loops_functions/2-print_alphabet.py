@@ -1,2 +1,2 @@
 for i in range(97, 123):
-    print("%c" % i, end="")
+    print("{:c}" .format(i), end="")
